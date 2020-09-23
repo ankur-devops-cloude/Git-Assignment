@@ -1,6 +1,7 @@
 this is first commit
 
+<<<<<<< HEAD
 Thsi is feature2 commit
-
+=======
 this second commit in feature1 branch
-
+>>>>>>> feature1
